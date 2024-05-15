@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "685397408268",
+    "project_id": "authpluscloudfirestore",
+    "storage_bucket": "authpluscloudfirestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685397408268:android:038fde6b1e664a73880c29",
+        "android_client_info": {
+          "package_name": "com.tech4mm.firebase_role_based_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjDV4N9wVdORLeTVz25ojq9cgvLSD7zT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
